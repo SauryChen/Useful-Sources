@@ -1,7 +1,7 @@
 # Useful-Sources
 > This repository collects useful sources found online related to my research topic. Sincerely thanks to those people who created or collected them.
 
-## Conferences' accepted paper lists:
+## AI Conferences' accepted paper lists:
 https://github.com/Lionelsy/Conference-Accepted-Paper-List
 
 ## Setellite image and deep learning
