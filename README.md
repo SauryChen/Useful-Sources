@@ -2,7 +2,8 @@
 > This repository collects useful sources found online related to my research topic. Sincerely thanks to those people who created or collected them.
 
 ## AI Conferences' accepted paper lists:
-https://github.com/Lionelsy/Conference-Accepted-Paper-List
+**CVF sponsored conferences:** https://openaccess.thecvf.com/menu  
+**Others:** https://github.com/Lionelsy/Conference-Accepted-Paper-List
 
 ## Setellite image and deep learning
 **annotation:** https://github.com/satellite-image-deep-learning/annotation  
