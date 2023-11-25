@@ -16,3 +16,6 @@
 
 ## Datasets Collection by Group of Photogrammetry and Computer Vision (GPCV) at Wuhan University:
 http://gpcv.whu.edu.cn/data/
+
+## Public aerial datasets for 3D reconstruction OR building height estimation:
+https://github.com/SauryChen/Useful-Sources/blob/main/3D_Reconstruction_from_Aerial_images.md
